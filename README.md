@@ -5,7 +5,7 @@ Develop a fully functional, blogging website with user authentication. The websi
 allow registered users to create, edit, and delete blog posts while providing a secure and
 intuitive user experience.
 
-Technologies Used: HTML, CSS, Bootstrap,Javascript, Django Rest Framework, Postressql
+# Technologies Used: HTML, CSS, Bootstrap,Javascript, Django Rest Framework, Postressql
 
 Table of Contents
 Project Overview
