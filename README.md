@@ -5,6 +5,8 @@ Develop a fully functional, blogging website with user authentication. The websi
 allow registered users to create, edit, and delete blog posts while providing a secure and
 intuitive user experience.
 
+Technologies Used: HTML, CSS, Bootstrap,Javascript, Django Rest Framework, Postressql
+
 Table of Contents
 Project Overview
 Prerequisites
@@ -27,10 +29,9 @@ Before setting up the project, ensure that you have the following installed:
 Python (3.x)
 Django (>= 3.2)
 Django Rest Framework (>= 3.12)
-You can install these prerequisites using:
 
-bash
-Copy code
+# You can install these prerequisites using:
+
 pip install Django==3.2
 pip install djangorestframework==3.12
 Installation
